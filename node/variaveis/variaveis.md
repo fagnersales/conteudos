@@ -53,13 +53,3 @@ console.log(carro);
 // => Tesla Model X
 // => Tesla Cybertruck
 ```
-
-```javascript
-window.alert('teste')
-```
-<button onClick="myAlert()">Testar o código</button>
-<script>
-function myAlert() {
-  window.alert('teste')
-}
-</script>
