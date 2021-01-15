@@ -26,7 +26,7 @@ carro = "Tesla Cybertruck";
 ```
 Tente checar o valor da variável após a alteração e veja o que acontece!
 
-Ter uma variável que pode ser redefinida, poded ser problemático, então para evitar isto, você pode declarar variáveis utilizando `const`, que a mesma **não pode** ser diretamente redefinida após declarada!
+Ter uma variável que pode ser redefinida, pode ser problemático, então para evitar isto, você pode declarar variáveis utilizando `const`, que a mesma **não pode** ser diretamente redefinida após declarada!
 ```javascript
 const meuNumero = 123456
 meuNumero = 654321
@@ -53,13 +53,3 @@ console.log(carro);
 // => Tesla Model X
 // => Tesla Cybertruck
 ```
-
-```javascript
-window.alert('teste')
-```
-<button onClick="myAlert()">Testar o código</button>
-<script>
-function myAlert() {
-  window.alert('teste')
-}
-</script>
