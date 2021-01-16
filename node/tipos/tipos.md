@@ -1,12 +1,5 @@
 # JavaScript Tipos
-<style>
-  .sub-title {
-    font-weight: 900;
-    color: purple;
-  }
-</style>
-
-## <span class="sub-title">String</span>
+## <span style="font-weight: 900; color: purple;">String</span>
 `String` é um tipo de texto e você pode declara-las de 3 diferentes formas *(ao utilizar um dos declaradores `""`, `''`, ` `` ` todas as palavras-chaves/variáveis serão inacessíveis se utilizado de forma incorreta)*, sendo elas:
 ```javascript
 const box = '📦 caixa';  // Aspas simples
