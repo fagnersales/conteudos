@@ -1,0 +1,22 @@
+li {
+  margin-bottom: 25px;
+}
+
+li>span {
+  cursor: pointer;
+  color: white;
+  background: linear-gradient(to right, rgb(38, 9, 204), rgb(76, 55, 194));
+  padding: 5px;
+  margin-bottom: 40px;
+}
+
+li>span:hover {
+  background: linear-gradient(to right, rgb(236, 37, 226), rgb(236, 37, 226));
+}
+
+aside {
+  background: #ccc;
+  min-height: 100vh;
+  min-width: 300px;
+  width: 25%;
+}
